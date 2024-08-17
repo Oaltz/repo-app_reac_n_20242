@@ -23,6 +23,7 @@ export default function Index() {
       ))
     }
 
+
     <Button title={contador.toString()} onPress={()=>{clicarBotao()}}> </Button>
 
     </View>
